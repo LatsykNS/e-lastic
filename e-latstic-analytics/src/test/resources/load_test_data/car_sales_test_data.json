@@ -1,0 +1,32 @@
+[
+  {
+    "car_model": "Toyota Corolla",
+    "car_year": "2020",
+    "price": 20000,
+    "currency": "USD",
+    "country": "USA",
+    "city": "New York",
+    "dealer": "BestCarsNY",
+    "created_date": ""
+  },
+  {
+    "car_model": "Ford Fiesta",
+    "car_year": "2018",
+    "price": 15000,
+    "currency": "USD",
+    "country": "USA",
+    "city": "Los Angeles",
+    "dealer": "WestCoastCars",
+    "created_date": ""
+  },
+  {
+    "car_model": "Honda Civic",
+    "car_year": "2019",
+    "price": 22000,
+    "currency": "USD",
+    "country": "USA",
+    "city": "Chicago",
+    "dealer": "WindyCityMotors",
+    "created_date": ""
+  }
+]
